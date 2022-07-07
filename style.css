@@ -68,7 +68,7 @@ ul li a {
 
 
 ul li a:hover{
-  background: #364fc7
+  background: rgb(38, 107, 185);
 }
 footer{
   font-family: "roboto";
